@@ -6,7 +6,6 @@ I work end to end, from low-level model execution and interfaces to orchestratio
 
 I am particularly interested in decision-critical and automation-heavy domains, where correctness and failure modes are first-class concerns.
 
----
 
 ## 🔍 Focus Areas
 
@@ -16,7 +15,6 @@ I am particularly interested in decision-critical and automation-heavy domains, 
 - Perception and computer vision systems  
 - AI infrastructure and execution layers  
 
----
 
 ## 🧪 This GitHub
 
@@ -28,6 +26,5 @@ An active systems workspace.
 
 ### Some projects may appear incomplete. That is intentional.
 
----
 
 Sometimes I read. Usually I build.
