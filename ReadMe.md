@@ -24,7 +24,7 @@ An active systems workspace.
 - Infrastructure- and execution-focused code  
 - Designs shaped by deployment constraints  
 
-### Some projects may appear incomplete. That is intentional.
+#### Some projects may appear incomplete. That is intentional.
 
 
-Sometimes I read. Usually I build.
+## Sometimes I read. Usually I build.
