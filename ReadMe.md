@@ -6,23 +6,7 @@ I work end to end, from low-level model execution and interfaces to orchestratio
 
 I am particularly interested in decision-critical and automation-heavy domains, where correctness and failure modes are first-class concerns.
 
-
-## 🔍 Focus Areas
-
-- Agentic and tool-driven AI systems  
-- Real-time speech and multimodal pipelines  
-- High-performance embedding and retrieval  
-- Perception and computer vision systems  
-- AI infrastructure and execution layers  
-
-
-## 🧪 This GitHub
-
-An active systems workspace.
-
-- End-to-end systems over isolated examples  
-- Infrastructure- and execution-focused code  
-- Designs shaped by deployment constraints  
+Engineering on AI runtimes, real-time inference, distributed systems, and financial systems infrastructure. Public field notes currently on inference economics. New York.
 
 #### Some projects may appear incomplete. That is intentional.
 
